@@ -1,1 +1,2 @@
 this is the first command in git
+this is the second command in git
