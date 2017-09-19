@@ -1,2 +1,3 @@
 this is the first command in git
 this is the second command in git
+this is the third line in git
